@@ -1,0 +1,6 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+
+$config['mailbox_product_item_id'] = "25308081";
+$config["mailbox_product_token"] = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwdXJjaGFzZV9jb2RlIjoiOGFhYTJkMGYtN2UxMC00NzRiLTlkOTgtNzAzZjFlMzA5MWM5IiwiaXRlbV9pZCI6MjUzMDgwODEsImJ1eWVyIjoiaW1taW1hdGUiLCJwdXJjaGFzZV9jb3VudCI6MSwiYWN0aXZhdGVkX2RvbWFpbiI6Imh0dHBzOlwvXC93d3cuaW1taW1hdGUuaW9cLyIsImlwIjoiMTQ0LjEzOC4xMDMuNjMiLCJwdXJjaGFzZV90aW1lIjoiMjAyMi0xMi0wMVQyMDo1NzoxNSsxMTowMCIsImNoZWNrX2ludGVydmFsIjo2MDQ4MDB9.EgZatPErM6ex7whx4KNjXQ0kcTfA_EkexlszmKcNuu2RN3HoXbuuR6G4Fa1Fu0BeMWdAgvWmJNSeNhvrBzyEHA";
